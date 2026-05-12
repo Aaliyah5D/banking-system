@@ -14,7 +14,7 @@ Inheritance — SavingsAccount and ChequeAccount extend BankAccount
 Design Documentation — UML class diagram and design decisions included
 Unit Testing — JUnit 5 tests covering core logic and edge cases
 
-🛠️ Tech Stack
+ # Tech Stack
 
 Java 17
 JUnit 5
